@@ -4,7 +4,6 @@ public class Professor {
     private String id;
     private String name;
     public Professor(String id, String name) {
-
     }
 
     public String getId() {

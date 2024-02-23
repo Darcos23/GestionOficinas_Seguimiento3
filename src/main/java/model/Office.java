@@ -7,7 +7,7 @@ public class Office {
     private Office nextOffice;
 
     public Office(int Office, String code) {
-
+        nextOffice = null;
     }
 
     public int getFloor() {
